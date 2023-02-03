@@ -1,0 +1,40 @@
+body{
+   
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about_section{
+overflow: hidden;
+}
+.alexandru_img {
+    
+width: 50%;
+float: left;
+margin:auto;
+
+}
+.alexandru_img img{
+    width: 90%;
+    padding: 40px;
+    
+}
+
+.alexandru_text{
+ 
+    width: 40%;
+    float: right;
+    text-align: center;
+    padding: 40px;
+    margin:30px;
+}
+h2{
+    font-family: 'Allura', cursive;
+font-family: 'Old Standard TT', serif;
+font-family: 'Work Sans', sans-serif;
+}
+h3{
+    text-align: left;
+    font-family: 'Allura', cursive;
+    font-family: 'Work Sans', sans-serif;
+
+    
+}
